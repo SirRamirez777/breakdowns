@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+**Backend** API running on http://localhost:3001
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
